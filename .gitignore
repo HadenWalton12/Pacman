@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Pacman/Release/Pacman.vcxproj.FileListAbsolute.txt
+/Pacman/Debug/Pacman.vcxproj.FileListAbsolute.txt
+/.vs/Pacman/FileContentIndex
